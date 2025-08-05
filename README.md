@@ -1,4 +1,4 @@
-# DIO|RESUME GIT E GITHUB
+# DIO|RESUMO GIT E GITHUB
 
 Repositorio para armazenar resmumo sobre git e github do curso de versionamento de coigo do git e github[digital innovatio one](https://dio.me/).
 
